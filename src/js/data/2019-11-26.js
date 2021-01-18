@@ -16,6 +16,7 @@ dataSet[dataSetVersion].options = [
       { name: "0083: Stardust Memory", key: "83" },
       { name: "Mobile Suit Gundam F91", key: "F91" },
       { name: "Mobile Suit Victory Gundam", key: "V" },
+      { name: "Mobile Fighter G Gundam", key: "G" },
       { name: "Mobile Suit Gundam Wing", key: "WING" },
       { name: "The 08th MS Team", key: "08" },
       { name: "After War Gundam X", key: "X" },
@@ -99,6 +100,13 @@ dataSet[dataSetVersion].characterData = [
     img: "f5i6uwG.jpg",
     opts: {
       series: [ "V" ]
+    }
+  },
+  {
+    name: "Mobile Fighter G Gundam",
+    img: "Umo8jfF.jpg",
+    opts: {
+      series: [ "G" ]
     }
   },
   {
