@@ -49,8 +49,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Mobile Suit Gundam",
     img: "c5DqpgX.png",
     opts: {
-      series: [ "79" ],
-      stage: ["st4"]
+      series: [ "79" ]
     }
   },
   {
