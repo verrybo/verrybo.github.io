@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam Build Divers",
+    name: "Gundam Build Divers Re:RISE",
     img: "nGiDGCT.jpg",
     opts: {
       series: [ "RISE" ]
