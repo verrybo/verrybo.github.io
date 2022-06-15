@@ -40,7 +40,7 @@ dataSet[dataSetVersion].options = [
       { name: "Gundam Thunderbolt", key: "TB" },
       { name: "Gundam Build Divers", key: "BD" },
       { name: "Gundam Narrative", key: "NT" },
-      { name: "Gundam Build Divers Re:RISE", key: "RISE" }
+      { name: "Gundam Build Divers Re:RISE", key: "RISE" },
       { name: "Gundam Hathaway", key: "HATH" }
     ]
   }
