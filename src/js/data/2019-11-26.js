@@ -1,4 +1,4 @@
-dataSetVersion = "2022-06-15"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2021-01-18"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -9,39 +9,38 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "Mobile Suit Gundam", key: "79" },
-      { name: "Zeta Gundam", key: "Z" },
-      { name: "Gundam ZZ", key: "ZZ" },
+      { name: "Mobile Suit Zeta Gundam", key: "Z" },
+      { name: "Mobile Suit Gundam ZZ", key: "ZZ" },
       { name: "Char's Counterattack", key: "CCA" },
       { name: "0080: War in the Pocket", key: "80" },
       { name: "0083: Stardust Memory", key: "83" },
-      { name: "Gundam F91", key: "F91" },
-      { name: "Victory Gundam", key: "V" },
+      { name: "Mobile Suit Gundam F91", key: "F91" },
+      { name: "Mobile Suit Victory Gundam", key: "V" },
       { name: "Mobile Fighter G Gundam", key: "G" },
-      { name: "Gundam Wing", key: "WING" },
+      { name: "Mobile Suit Gundam Wing", key: "WING" },
       { name: "The 08th MS Team", key: "08" },
       { name: "After War Gundam X", key: "X" },
       { name: "Gundam Wing Endless Waltz", key: "EW" },
       { name: "Turn A Gundam", key: "TURN" },
       { name: "Gundam Evolve", key: "EVO" },
-      { name: "Gundam SEED", key: "SEED" },
+      { name: "Mobile Suit Gundam SEED", key: "SEED" },
       { name: "MS IGLOO", key: "IG" },
-      { name: "Gundam SEED Destiny", key: "DEST" },
+      { name: "Mobile Suit Gundam SEED Destiny", key: "DEST" },
       { name: "SEED C.E. 73: Stargazer", key: "SG" },
-      { name: "Gundam 00", key: "00" },
+      { name: "Mobile Suit Gundam 00", key: "00" },
       { name: "MS IGLOO 2: The Gravity Front", key: "GF" },
-      { name: "Gundam Unicorn", key: "UC" },
+      { name: "Mobile Suit Gundam Unicorn", key: "UC" },
       { name: "Gundam 00: A Wakening of the Trailblazer", key: "AW" },
-      { name: "Gundam AGE", key: "AGE" },
+      { name: "Mobile Suit Gundam AGE", key: "AGE" },
       { name: "Gundam Build Fighters", key: "BF" },
       { name: "Gundam Reconguista in G", key: "RECO" },
       { name: "Gundam Build Fighters Try", key: "TRY" },
-      { name: "Gundam The Origin", key: "ORI" },
-      { name: "Gundam Iron-Blooded Orphans", key: "IBO" },
-      { name: "Gundam Thunderbolt", key: "TB" },
+      { name: "Mobile Suit Gundam The Origin", key: "ORI" },
+      { name: "Mobile Suit Gundam Iron-Blooded Orphans", key: "IBO" },
+      { name: "Mobile Suit Gundam Thunderbolt", key: "TB" },
       { name: "Gundam Build Divers", key: "BD" },
-      { name: "Gundam Narrative", key: "NT" },
+      { name: "Mobile Suit Gundam Narrative", key: "NT" },
       { name: "Gundam Build Divers Re:RISE", key: "RISE" }
-      { name: "Gundam Hathaway", key: "HATH" }
     ]
   }
 ];
@@ -55,14 +54,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Zeta Gundam",
+    name: "Mobile Suit Zeta Gundam",
     img: "3W8ozNR.jpg",
     opts: {
       series: [ "Z" ]
     }
   },
   {
-    name: "Gundam ZZ",
+    name: "Mobile Suit Gundam ZZ",
     img: "9WnXIWb.jpg",
     opts: {
       series: [ "ZZ" ]
@@ -90,14 +89,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam F91",
+    name: "Mobile Suit Gundam F91",
     img: "rN1NjZn.jpg",
     opts: {
       series: [ "F91" ]
     }
   },
   {
-    name: "Victory Gundam",
+    name: "Mobile Suit Victory Gundam",
     img: "f5i6uwG.jpg",
     opts: {
       series: [ "V" ]
@@ -111,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam Wing",
+    name: "Mobile Suit Gundam Wing",
     img: "wx9ntq7.jpg",
     opts: {
       series: [ "WING" ]
@@ -153,7 +152,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam SEED",
+    name: "Mobile Suit Gundam SEED",
     img: "e3Yd2oD.jpg",
     opts: {
       series: [ "SEED" ]
@@ -167,7 +166,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam SEED Destiny",
+    name: "Mobile Suit Gundam SEED Destiny",
     img: "u6oyJ3R.jpg",
     opts: {
       series: [ "DEST" ]
@@ -181,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam 00",
+    name: "Mobile Suit Gundam 00",
     img: "lkJ2LdF.jpg",
     opts: {
       series: [ "00" ]
@@ -195,7 +194,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: " Gundam Unicorn",
+    name: "Mobile Suit Gundam Unicorn",
     img: "mdym8lK.jpg",
     opts: {
       series: [ "UC" ]
@@ -209,7 +208,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam AGE",
+    name: "Mobile Suit Gundam AGE",
     img: "EUkWwkF.jpg",
     opts: {
       series: [ "AGE" ]
@@ -237,21 +236,21 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gundam The Origin",
+    name: "Mobile Suit Gundam The Origin",
     img: "CC19Fbs.jpg",
     opts: {
       series: [ "ORI" ]
     }
   },
   {
-    name: "Gundam Iron-Blooded Orphans",
+    name: "Mobile Suit Gundam Iron-Blooded Orphans",
     img: "RpoeLXb.png",
     opts: {
       series: [ "IBO" ]
     }
   },
   {
-    name: "Gundam Thunderbolt",
+    name: "Mobile Suit Gundam Thunderbolt",
     img: "AJ0BydE.jpg",
     opts: {
       series: [ "TB" ]
@@ -259,13 +258,13 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gundam Build Divers",
-    img: "CtY0Txk.jpg",
+    img: "CtY0Txk.jpgg",
     opts: {
       series: [ "BD" ]
     }
   },
   {
-    name: "Gundam Narrative",
+    name: "Mobile Suit Gundam Narrative",
     img: "uYykZL9.jpg",
     opts: {
       series: [ "NT" ]
@@ -276,13 +275,6 @@ dataSet[dataSetVersion].characterData = [
     img: "nGiDGCT.jpg",
     opts: {
       series: [ "RISE" ]
-    }
-  },
-  {
-    name: "Gundam Hathaway",
-    img: "F9OTwy2.png",
-    opts: {
-      series: [ "HATH" ]
     }
   }
 ];
