@@ -49,7 +49,7 @@ dataSet[dataSetVersion].options = [
       { name: "Gundam Narrative", key: "NT" },
       { name: "SD Gundam World Sangoku Soketsuden", key: "SOKE" },
       { name: "Gundam Build Divers Re:RISE", key: "RISE" },
-      { name: "Gundam Build Divers Battlogue, key: "BDB" },
+      { name: "Gundam Build Divers Battlogue", key: "BDB" },
       { name: "SD Gundam World Heroes", key: "HERO" },
       { name: "Gundam Hathaway", key: "HATH" },
       { name: "Gundam Breaker Battlogue", key: "GBB" },
