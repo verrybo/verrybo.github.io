@@ -352,7 +352,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Gundam Build Divers Battlogue",
     img: "kSuhEnc.jpg",
     opts: {
-      series: [ "BFB" ]
+      series: [ "BDB" ]
     }
   },
    {
