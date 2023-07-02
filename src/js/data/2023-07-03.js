@@ -13,8 +13,8 @@ dataSet[dataSetVersion].options = [
       { name: "Gundam ZZ", key: "ZZ" },
       { name: "Char's Counterattack", key: "CCA" },
       { name: "0080: War in the Pocket", key: "80" },
-      { name: "0083: Stardust Memory", key: "83" },
       { name: "Gundam F91", key: "F91" },
+      { name: "0083: Stardust Memory", key: "83" },
       { name: "Victory Gundam", key: "V" },
       { name: "Mobile Fighter G Gundam", key: "G" },
       { name: "Gundam Wing", key: "WING" },
@@ -22,26 +22,40 @@ dataSet[dataSetVersion].options = [
       { name: "After War Gundam X", key: "X" },
       { name: "Gundam Wing Endless Waltz", key: "EW" },
       { name: "Turn A Gundam", key: "TURN" },
+      { name: "G-Saviour", key: "GS" },
       { name: "Gundam Evolve", key: "EVO" },
       { name: "Gundam SEED", key: "SEED" },
+      { name: "Superior Defender Gundam Force", key: "SDGF" },
       { name: "MS IGLOO", key: "IG" },
       { name: "Gundam SEED Destiny", key: "DEST" },
       { name: "SEED C.E. 73: Stargazer", key: "SG" },
       { name: "Gundam 00", key: "00" },
       { name: "MS IGLOO 2: The Gravity Front", key: "GF" },
       { name: "Gundam Unicorn", key: "UC" },
+      { name: "SD Gundam Sangokuden Brave Battle Warriors", key: "BBW" },
       { name: "Gundam 00: A Wakening of the Trailblazer", key: "AW" },
+      { name: "Gunpla Builders Beginning G", key: "GBBG" },
       { name: "Gundam AGE", key: "AGE" },
       { name: "Gundam Build Fighters", key: "BF" },
+      { name: "Gundam-san", key: "SAN" },
       { name: "Gundam Reconguista in G", key: "RECO" },
       { name: "Gundam Build Fighters Try", key: "TRY" },
       { name: "Gundam The Origin", key: "ORI" },
       { name: "Gundam Iron-Blooded Orphans", key: "IBO" },
       { name: "Gundam Thunderbolt", key: "TB" },
+      { name: "Gundam Build Fighters Battlogue", key: "BFB" },
+      { name: "Gundam Build Fighters: GM's Counterattack", key: "GMC" },
       { name: "Gundam Build Divers", key: "BD" },
       { name: "Gundam Narrative", key: "NT" },
+      { name: "SD Gundam World Sangoku Soketsuden", key: "SOKE" },
       { name: "Gundam Build Divers Re:RISE", key: "RISE" },
-      { name: "Gundam Hathaway", key: "HATH" }
+      { name: "Gundam Build Divers Battlogue, key: "BDB" },
+      { name: "SD Gundam World Heroes", key: "HERO" },
+      { name: "Gundam Hathaway", key: "HATH" },
+      { name: "Gundam Breaker Battlogue", key: "GBB" },
+      { name: "Cucuruz Doan's Island", key: "DOAN" },
+      { name: "Gundam The Witch from Mercury", key: "WITCH" },
+      { name: "Gundam SEED Freedom", key: "SF" }
     ]
   }
 ];
@@ -83,17 +97,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "0083: Stardust Memory",
-    img: "kSuhEnc.jpg",
-    opts: {
-      series: [ "83" ]
-    }
-  },
-  {
     name: "Gundam F91",
     img: "rN1NjZn.jpg",
     opts: {
       series: [ "F91" ]
+    }
+  },
+  {
+    name: "0083: Stardust Memory",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "83" ]
     }
   },
   {
@@ -146,6 +160,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "G-Saviour",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "GS" ]
+    }
+  },
+  {
     name: "Gundam Evolve",
     img: "R1SEQth.jpg",
     opts: {
@@ -157,6 +178,13 @@ dataSet[dataSetVersion].characterData = [
     img: "e3Yd2oD.jpg",
     opts: {
       series: [ "SEED" ]
+    }
+  },
+  {
+    name: "Superior Defender Gundam Force",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "SDGF" ]
     }
   },
   {
@@ -201,11 +229,25 @@ dataSet[dataSetVersion].characterData = [
       series: [ "UC" ]
     }
   },
+   {
+    name: "SD Gudnam Sangokuden Brave Battle Warriors",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "BBW" ]
+    }
+  },
   {
     name: "00: A Wakening of the Trailblazer",
     img: "mO8r0w3.jpg",
     opts: {
       series: [ "AW" ]
+    }
+  },
+   {
+    name: "Gunpla Builders Beginning G",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "GBBG" ]
     }
   },
   {
@@ -220,6 +262,13 @@ dataSet[dataSetVersion].characterData = [
     img: "Za5m6Wd.jpg",
     opts: {
       series: [ "BF" ]
+    }
+  },
+   {
+    name: "Gundam-san",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "SAN" ]
     }
   },
   {
@@ -257,6 +306,20 @@ dataSet[dataSetVersion].characterData = [
       series: [ "TB" ]
     }
   },
+   {
+    name: "Gundam Build Fighters Battlogue",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "BFB" ]
+    }
+  },
+   {
+    name: "Gundam Build Fighters: GM's Counterattack",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "GMC" ]
+    }
+  },
   {
     name: "Gundam Build Divers",
     img: "CtY0Txk.jpg",
@@ -271,6 +334,13 @@ dataSet[dataSetVersion].characterData = [
       series: [ "NT" ]
     }
   },
+   {
+    name: "SD Gundam World Sangoku Soketsuden",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "SOKE" ]
+    }
+  },
   {
     name: "Gundam Build Divers Re:RISE",
     img: "nGiDGCT.jpg",
@@ -278,11 +348,53 @@ dataSet[dataSetVersion].characterData = [
       series: [ "RISE" ]
     }
   },
+   {
+    name: "Gundam Build Divers Battlogue",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "BFB" ]
+    }
+  },
+   {
+    name: "SD Gundam World Heroes",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "HERO" ]
+    }
+  },
   {
     name: "Gundam Hathaway",
     img: "F9OTwy2.png",
     opts: {
       series: [ "HATH" ]
+    },
+  },
+  {
+    name: "Gundam Breaker Battlogue",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "GBB" ]
+    }
+  },
+  {
+    name: "Cucuruz Doan's Island",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "DOAN" ]
+    }
+  },
+  {
+    name: "Gundam The Witch from Mercury",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "WITCH" ]
+    }
+  },
+  {
+    name: "Gundam SEED Freedom",
+    img: "kSuhEnc.jpg",
+    opts: {
+      series: [ "SF" ]
     }
   }
 ];
