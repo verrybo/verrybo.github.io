@@ -160,7 +160,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "G-Saviour",
-    img: "kSuhEnc.jpg",
+    img: "6HmviNA.jpg",
     opts: {
       series: [ "GS" ]
     }
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Superior Defender Gundam Force",
-    img: "kSuhEnc.jpg",
+    img: "hfU03S9.jpg",
     opts: {
       series: [ "SDGF" ]
     }
@@ -229,8 +229,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
    {
-    name: "SD Gudnam Sangokuden Brave Battle Warriors",
-    img: "kSuhEnc.jpg",
+    name: "SD Gundam Sangokuden Brave Battle Warriors",
+    img: "Imw2TWF.jpg",
     opts: {
       series: [ "BBW" ]
     }
@@ -244,7 +244,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Gunpla Builders Beginning G",
-    img: "kSuhEnc.jpg",
+    img: "Dk9m8xz.jpg",
     opts: {
       series: [ "GBBG" ]
     }
@@ -265,7 +265,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Gundam-san",
-    img: "kSuhEnc.jpg",
+    img: "impV6Cv.jpg",
     opts: {
       series: [ "SAN" ]
     }
@@ -307,14 +307,14 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "Gundam Build Fighters Battlogue",
-    img: "kSuhEnc.jpg",
+    img: "D5C26s7.jpg",
     opts: {
       series: [ "BFB" ]
     }
   },
    {
     name: "Gundam Build Fighters: GM's Counterattack",
-    img: "kSuhEnc.jpg",
+    img: "Cp0gElc.jpg",
     opts: {
       series: [ "GMC" ]
     }
@@ -335,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "SD Gundam World Sangoku Soketsuden",
-    img: "kSuhEnc.jpg",
+    img: "zTpg2P1.jpg",
     opts: {
       series: [ "SOKE" ]
     }
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
   },
    {
     name: "SD Gundam World Heroes",
-    img: "kSuhEnc.jpg",
+    img: "dKuXI9e.jpg",
     opts: {
       series: [ "HERO" ]
     }
@@ -363,28 +363,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gundam Breaker Battlogue",
-    img: "kSuhEnc.jpg",
+    img: "PYBR0W2.jpg",
     opts: {
       series: [ "GBB" ]
     }
   },
   {
     name: "Cucuruz Doan's Island",
-    img: "kSuhEnc.jpg",
+    img: "6qDbkZl.jpg",
     opts: {
       series: [ "DOAN" ]
     }
   },
   {
     name: "Gundam The Witch from Mercury",
-    img: "kSuhEnc.jpg",
+    img: "QvnFoPI.jpg",
     opts: {
       series: [ "WITCH" ]
     }
   },
   {
     name: "Gundam SEED Freedom",
-    img: "kSuhEnc.jpg",
+    img: "C7CwlWl.jpg",
     opts: {
       series: [ "SF" ]
     }
