@@ -349,13 +349,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
    {
-    name: "Gundam Build Divers Battlogue",
-    img: "kSuhEnc.jpg",
-    opts: {
-      series: [ "BDB" ]
-    }
-  },
-   {
     name: "SD Gundam World Heroes",
     img: "kSuhEnc.jpg",
     opts: {
