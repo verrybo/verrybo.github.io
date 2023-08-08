@@ -43,7 +43,6 @@ dataSet[dataSetVersion].options = [
       { name: "Gundam The Origin", key: "ORI" },
       { name: "Gundam Iron-Blooded Orphans", key: "IBO" },
       { name: "Gundam Thunderbolt", key: "TB" },
-      { name: "Gundam Build Fighters Battlogue", key: "BFB" },
       { name: "Gundam Build Fighters: GM's Counterattack", key: "GMC" },
       { name: "Gundam Build Divers", key: "BD" },
       { name: "Gundam Narrative", key: "NT" },
